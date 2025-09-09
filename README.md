@@ -34,7 +34,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/V-Architect.git
+git clone https://github.com/Boomerk27/V-Architect.git
 
 # Navigate to the project folder
 cd V-Architect
@@ -71,3 +71,4 @@ flutter run
 ## 📜 License
 
 This project is licensed under the MIT License – you're free to use, modify, and distribute it.
+
